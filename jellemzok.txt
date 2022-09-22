@@ -1,2 +1,7 @@
+A kókusz jellemzői:-Kemény a termésének a héja és finom.
 A kókusz jellemzői:-Kemény a héja.
+<<<<<<< HEAD
 A kokusz finom.
+=======
+Délkelet-Ázsiabol származik
+>>>>>>> e516de64bc42dfec7149a64fcb71afb9432f8ef9
