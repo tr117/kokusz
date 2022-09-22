@@ -4,4 +4,8 @@ A kókusz jellemzői:-Kemény a héja.
 A kokusz finom.
 =======
 Délkelet-Ázsiabol származik
+<<<<<<< HEAD
 >>>>>>> e516de64bc42dfec7149a64fcb71afb9432f8ef9
+=======
+A kókusz 1-2 kilogramm tömegű.
+>>>>>>> d12d08d89c202f02fbcb2007c66b4bf36e53596a
